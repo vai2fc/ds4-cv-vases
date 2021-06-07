@@ -1,0 +1,11 @@
+name: keras_env_2
+channels:
+    - conda-forge
+dependencies:
+  - python=3.9
+  - dill
+  - jupyter
+  - pandas=1.2.4
+  - numpy=1.20.3
+  - matplotlib=3.4.2
+  - scikit-learn=0.24.2
