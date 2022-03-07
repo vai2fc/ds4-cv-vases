@@ -1,6 +1,6 @@
 # Looking for Signal, Listening for Noise: Using a Convolutional Neural Network to Identify Musical Instruments in 4th c. BCE Apulian Vases
 
-Welcome to the repo for my Nashville Software School Data Science Cohort 4 capstone project on identifying stringed instruments in 4th century BCE Apulian vase-painting.
+Welcome to the repo for my project on identifying stringed instruments in 4th century BCE Apulian vase-painting.
 
 ### Why ancient pottery + computer vision?
 At the heart of this project is the question of whether or not a computer can be trained to 'read' the rich and varied imagery ('iconography') on ancient, figure-decorated pottery. As photographic and other visual archives digitize their vast collections, is there a place for computer vision algorithms to assist the stewards and curators of these materials in generating more informative and inclusive metadata that accelerates research and increases discoverability of archival materials?
